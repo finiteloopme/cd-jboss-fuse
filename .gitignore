@@ -7,3 +7,5 @@ target
 .project
 .classpath
 openshift_vars_build*
+ssh-admin-key/
+ssh-keys/
